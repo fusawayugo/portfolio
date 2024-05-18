@@ -13,6 +13,7 @@
 - C
 - Typescript
 - Javascript
+- go
 ### 経験
 - [株式会社メモアカ](https://corp.memoaca.com/)でシステムエンジニア、デザイナーとしてインターンをしています。
     - Reactを用いて[Webアプリケーション](https://corp.memoaca.com/)(会員登録が必要なサイトです)のバックエンド、フロントエンド開発を1年ほど行っています。
